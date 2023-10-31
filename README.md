@@ -1,1 +1,1 @@
-# CalculatorKG.
+# calculator
